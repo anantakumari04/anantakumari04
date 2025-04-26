@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantakumari04&label=Profile%20views&color=0e75b6&style=flat" alt="anantakumari04" /> </p>
 
 
-- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **kumariananta01@gmail.com**
 
