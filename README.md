@@ -1,22 +1,64 @@
 <h1 align="center">Hi 👋, I'm Ananta Kumari</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right"alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver | 🌟 Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantakumari04&label=Profile%20views&color=0e75b6&style=flat" alt="anantakumari04" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
+---
 
+### 🌟 About Me  
+- 🎯 Building **scalable** and **user-friendly** applications  
+- 📚 Exploring **MERN Stack**, **AI Integrations**, and **Cloud Deployments**  
+- 📫 Reach me at: **kumariananta01@gmail.com**  
+- ⚡ Fun fact: *I turn coffee into code... and bugs into features!* 🐛➡️✨  
 
-- 📫 How to reach me **kumariananta01@gmail.com**
+---
 
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/ananta-kumari0405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananta-kumari0405" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kumari_ananta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kumari_ananta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anantakumari_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anantakumari_04" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ananta-kumari0405" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/kumari_ananta" target="blank">
+    <img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/anantakumari_04" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
+---
 
+### 🛠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,java,mysql,git,github,figma&perline=8" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantakumari04&show_icons=true&locale=en&layout=compact" alt="anantakumari04" /></p>
+---
+
+### 📂 Featured Projects  
+
+🚀 **[Customer Support RAG System](https://rag-frontend-mauve.vercel.app/)**  
+*Retrieval-Augmented Generation chatbot with sentiment analysis for customer queries.*  
+**Tech:** React, Node.js, MongoDB, Pinecone, OpenAI API  
+
+🛍 **[Virtual Wardrobe](https://github.com/anantakumari04/virtual-wardrobe)**  
+*Try outfits virtually, get AI outfit suggestions.*  
+**Tech:** MERN Stack, TensorFlow.js, Cloudinary  
+
+📅 **[Event Planner Pro](https://github.com/anantakumari04/event-planner)**  
+*Plan events, manage guests, AI theme suggestions.*  
+**Tech:** React, Node.js, MongoDB, AI APIs  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantakumari04&theme=tokyonight" alt="streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anantakumari04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+💡 *"Code is like humor — when you have to explain it, it’s bad."*
