@@ -37,23 +37,30 @@
 
 ### 📂 Featured Projects  
 
-🚀 **[Customer Support RAG System](https://rag-frontend-mauve.vercel.app/)**  
+#### 🚀 Customer Support RAG System  
+[![Customer Support RAG](https://i.imgur.com/IVL8nZ3.png)](https://rag-frontend-mauve.vercel.app/)  
 *Retrieval-Augmented Generation chatbot with sentiment analysis for customer queries.*  
 **Tech:** React, Node.js, MongoDB, Pinecone, OpenAI API  
 
-🛍 **[Virtual Wardrobe](https://github.com/anantakumari04/virtual-wardrobe)**  
-*Try outfits virtually, get AI outfit suggestions.*  
-**Tech:** MERN Stack, TensorFlow.js, Cloudinary  
+---
 
-📅 **[Event Planner Pro](https://github.com/anantakumari04/event-planner)**  
-*Plan events, manage guests, AI theme suggestions.*  
+#### 🛍 Cafe Store 
+[![Virtual Wardrob](https://i.imgur.com/VvItiIr.png)](https://cafe-frontend-sooty.vercel.app/)  
+*Explore products, Add to cart and Place order.*  
+**Tech:** MERN Stack,   
+
+---
+
+#### 📅 Chit-Chat
+[![Event Planner Pro](https://i.imgur.com/5bKz2p0.png)](https://github.com/anantakumari04/event-planner)  
+*Real-time messanging, Paswword hashing, Online-Offline Status.*  
 **Tech:** React, Node.js, MongoDB, AI APIs  
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantakumari04&theme=tokyonight" alt="streak stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantakumari04&theme=tokyonight" alt="streak stats" /> -->
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anantakumari04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
