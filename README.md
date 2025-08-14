@@ -45,14 +45,14 @@
 ---
 
 #### 🛍 Cafe Store 
-[![Virtual Wardrob]](https://cafe-frontend-sooty.vercel.app/)  
+[![Cafe Store]](https://cafe-frontend-sooty.vercel.app/)  
 *Explore products, Add to cart and Place order.*  
 **Tech:** MERN Stack,   
 
 ---
 
 #### 📅 Chit-Chat
-[![Event Planner Pro]](https://github.com/anantakumari04/event-planner)  
+[![Real-time messaging]](https://github.com/anantakumari04/event-planner)  
 *Real-time messanging, Paswword hashing, Online-Offline Status.*  
 **Tech:** React, Node.js, MongoDB, AI APIs  
 
