@@ -38,21 +38,21 @@
 ### 📂 Featured Projects  
 
 #### 🚀 Customer Support RAG System  
-[![Customer Support RAG](https://i.imgur.com/IVL8nZ3.png)](https://rag-frontend-mauve.vercel.app/)  
+[![Customer Support RAG]](https://rag-frontend-mauve.vercel.app/)  
 *Retrieval-Augmented Generation chatbot with sentiment analysis for customer queries.*  
 **Tech:** React, Node.js, MongoDB, Pinecone, OpenAI API  
 
 ---
 
 #### 🛍 Cafe Store 
-[![Virtual Wardrob](https://i.imgur.com/VvItiIr.png)](https://cafe-frontend-sooty.vercel.app/)  
+[![Virtual Wardrob]](https://cafe-frontend-sooty.vercel.app/)  
 *Explore products, Add to cart and Place order.*  
 **Tech:** MERN Stack,   
 
 ---
 
 #### 📅 Chit-Chat
-[![Event Planner Pro](https://i.imgur.com/5bKz2p0.png)](https://github.com/anantakumari04/event-planner)  
+[![Event Planner Pro]](https://github.com/anantakumari04/event-planner)  
 *Real-time messanging, Paswword hashing, Online-Offline Status.*  
 **Tech:** React, Node.js, MongoDB, AI APIs  
 
