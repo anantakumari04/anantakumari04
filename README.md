@@ -52,7 +52,7 @@ Explore products, Add to cart and Place order.
 ---
 
 #### 📅 Chit-Chat
-[![Real-time messaging]](https://github.com/anantakumari04/event-planner)  
+[![Real-time messaging]](https://chitchat-6nat.onrender.com/)  
 Real-time messanging, Paswword hashing, Online-Offline Status.  
 *Tech:* React, Node.js, MongoDB, AI APIs  
 
