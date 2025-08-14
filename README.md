@@ -38,7 +38,7 @@
 ### 📂 Featured Projects  
 
 #### 🚀 Customer Support RAG System  
-[![Customer Support RAG Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k4ZGlyeGd1Y2FhNmFicmN3bDk0cWt3Z3FlaG4ydWFxaTV2OGUybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)](https://rag-frontend-mauve.vercel.app/)  
+[![Customer Support RAG Demo]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k4ZGlyeGd1Y2FhNmFicmN3bDk0cWt3Z3FlaG4ydWFxaTV2OGUybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)](https://rag-frontend-mauve.vercel.app/](https://cdn.dribbble.com/users/6985884/screenshots/15849023/media/6dfb9f3caf75d8b6acc1f9bde6b885fa.gif))  
 *Retrieval-Augmented Generation chatbot with sentiment analysis for customer queries.*  
 **Tech:** React, Node.js, MongoDB, Pinecone, OpenAI API  
 
