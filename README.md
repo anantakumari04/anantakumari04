@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | 🚀 AI & Cloud Enthusiast | 🌟 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Cloud+%26+DevOps+Learner;Turning+Ideas+Into+Reality" />
+  <img src="https://chatgpt.com/s/m_6927324c70d48191851d96c53e19e396" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
@@ -22,7 +22,7 @@
 | Category | Technologies |
 |----------|-------------|
 | **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![NextJS](https://skillicons.dev/icons?i=nextjs) ![Figma](https://skillicons.dev/icons?i=figma) |
-| **Backend** | ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) |
+| **Backend** |![Spring Boot](https://skillicons.dev/icons?i=spring) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) |
 | **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
 | **AI / ML / Tools** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) |
 | **Version Control & Deployment** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Render](https://skillicons.dev/icons?i=render) |
