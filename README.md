@@ -48,11 +48,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantakumari04&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### ✨ *"Code is like humor — when you have to explain it, it’s bad."*
