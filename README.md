@@ -7,7 +7,7 @@
 
 ### 🌟 About Me  
 - 🎯 Building *scalable* and *user-friendly* applications  
-- 📚 Exploring *MERN Stack, **AI Integrations, and **Cloud Deployments*  
+- 📚 Exploring *MERN Stack, **AI Integrations, and **SpringBoot *  
 - 📫 Reach me at: *kumariananta01@gmail.com*  
 - ⚡ Fun fact: I turn coffee into code... and bugs into features! 🐛➡✨  
 
@@ -30,7 +30,7 @@
 
 ### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,java,mysql,git,github,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=springboot,html,css,js,ts,react,nodejs,express,mongodb,python,java,mysql,git,github,figma&perline=8" />
 </p>
 
 ---
