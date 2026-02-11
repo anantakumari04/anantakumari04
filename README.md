@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananta Kumari</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 AI & Cloud Enthusiast | 🌟 Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | 🚀 Android Developer | 🌟 Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Cloud+%26+DevOps+Learner;Turning+Ideas+Into+Reality" />
