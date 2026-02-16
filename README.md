@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Cloud+%26+DevOps+Learner;Turning+Ideas+Into+Reality" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/121/12113.gif">
 
 ---
 
