@@ -7,7 +7,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/121/12113.gif">
+<img align="right" alt="Coding" width="400" height = "350" src="https://giffiles.alphacoders.com/121/12113.gif">
 
 ---
 
