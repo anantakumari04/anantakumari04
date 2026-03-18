@@ -13,8 +13,8 @@
 
 ### 🌟 **About Me**
 - 👩‍💻 Passionate about building meaningful & scalable digital experiences  
-- 🔭 Currently working on: **AI Integrations, MERN SaaS Platforms, Cloud Deployments**  
-- 🌱 Learning: **DevOps, Next.js, LLMs & Microservices**  
+- 🔭 Currently working on: **AI Integrations, MERN SaaS Platforms**  
+- 🌱 Learning: **LLMs & Microservices**  
 - 📫 Reach me at: **kumariananta01@gmail.com**  
 - ⚡ Fun fact: *I turn coffee into code… and bugs into features!* 🐞✨  
 
