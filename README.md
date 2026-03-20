@@ -7,12 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Cloud+%26+DevOps+Learner;Turning+Ideas+Into+Reality" />
 </p>
 
-
-<div align="right" style="padding-top: 70px;">
-  <img src="https://giffiles.alphacoders.com/121/12113.gif" width="400" height="200"/>
-</div>
-
 ---
+
+<table>
+<tr>
+<td>
 
 ### 🌟 **About Me**
 - 👩‍💻 Passionate about building meaningful & scalable digital experiences  
@@ -20,6 +19,15 @@
 - 🌱 Learning: **LLMs & Microservices**  
 - 📫 Reach me at: **kumariananta01@gmail.com**  
 - ⚡ Fun fact: *I turn coffee into code… and bugs into features!* 🐞✨  
+
+</td>
+
+<td align="right">
+<img src="https://giffiles.alphacoders.com/121/12113.gif" width="300"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
