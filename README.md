@@ -9,8 +9,8 @@
 
 
 
-
-<img align="right" alt="Coding" width="400" height = "200" paddingtop= "100" src="https://giffiles.alphacoders.com/121/12113.gif">
+<br><br><br>
+<img align="right" alt="Coding" width="400" height = "200"  src="https://giffiles.alphacoders.com/121/12113.gif">
 
 ---
 
