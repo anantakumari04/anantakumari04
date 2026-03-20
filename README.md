@@ -8,7 +8,7 @@
 </p>
 
 
-<div align="right" style="margin-top: 40px;">
+<div align="right" style="margin-top: 1px;">
   <img src="https://giffiles.alphacoders.com/121/12113.gif" width="400" height="200"/>
 </div>
 
