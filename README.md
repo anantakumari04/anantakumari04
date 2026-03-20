@@ -3,7 +3,7 @@
 
 
 
-<p align="center">
+<p align="center", style="padding-left=60px">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Cloud+%26+DevOps+Learner;Turning+Ideas+Into+Reality" />
 </p>
 
