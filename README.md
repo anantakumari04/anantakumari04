@@ -16,7 +16,7 @@
 ### 🌟 **About Me**
 - 👩‍💻 Passionate about building meaningful & scalable digital experiences  
 - 🔭 Currently working on: **AI Integrations, MERN SaaS Platforms**  
-- 🌱 Learning: **LLMs & Microservices**  
+- 🌱 Learning: **LLD & Microservices**  
 - 📫 Reach me at: **kumariananta01@gmail.com**  
 - ⚡ Fun fact: *I turn coffee into code… and bugs into features!* 🐞✨  
 
@@ -37,7 +37,7 @@
 | **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![NextJS](https://skillicons.dev/icons?i=nextjs) ![Figma](https://skillicons.dev/icons?i=figma) |
 | **Backend** | ![Spring Boot](https://skillicons.dev/icons?i=spring) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) |
 | **Databases** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
-| **AI / ML / Tools** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) |
+| **AI / ML / Tools** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 | **Version Control & Deployment** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Render](https://skillicons.dev/icons?i=render) |
 
 ---
